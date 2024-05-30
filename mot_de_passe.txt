@@ -1,0 +1,3 @@
+Mot de passe Raspberry = mgmat2024
+Nom de l'hotspot = mgmatdev_desktop
+
